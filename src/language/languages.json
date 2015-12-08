@@ -300,5 +300,14 @@
         "mode": "turtle",
         "fileExtensions": ["ttl"],
         "lineComment": ["#"]
+    },
+    
+    "autoit": {
+        "name": "AutoIt",
+        "mode": "autoit",
+        "fileExtensions": ["au3"],
+        "blockComment": ["#cs", "#ce"],
+        "lineComment": [";"]
     }
+    #cs
 }
